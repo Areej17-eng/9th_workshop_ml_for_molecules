@@ -1,6 +1,4 @@
-## Introduction to Machine Learning for Molecular Science
-
-Today's topic: Featurization of molecules
+## Featurization of Molecules for ML
 
 [Notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Tuesday/Featurization.ipynb) (same for all sessions)
 
