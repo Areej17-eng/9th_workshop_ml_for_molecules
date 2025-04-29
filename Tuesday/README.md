@@ -1,7 +1,11 @@
 ## Introduction to Machine Learning for Molecular Science
 
+Today's topic: Featurization of molecules
+
+[Notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Tuesday/Featurization.ipynb) (same for all sessions)
+
 ### Session 1 (1:00-1:50)
-* Tokenization and one hot encoding (Dr. Yamil Colon, University of Notre Dame)
+* Tokenization and one hot encoding (Dr. Yamil Colon, University of Notre Dame) 
 * Break (1:50-2:00)
 
 ### Session 2 (2:00-2:50)
