@@ -1,5 +1,7 @@
-** Overall Deep Learning and ML resources **
-https://www.deeplearningbook.org/
+**Overall Deep Learning and ML resources**
 
-** Molecularly focused ML **
-Deep Learning for Molecules and Materials (Andrew White) https://dmol.pub/
+1. https://www.deeplearningbook.org/
+
+**Molecularly focused ML**
+
+1. Deep Learning for Molecules and Materials (Andrew White) https://dmol.pub/
