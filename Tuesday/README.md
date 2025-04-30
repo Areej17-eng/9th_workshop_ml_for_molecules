@@ -16,6 +16,6 @@
 * Geometry-based descriptors of molecules (Dr. Yamil Colon, University of Notre Dame)
 * Wrapup (3:50-4:00)
 
-### Videos
-* [Video 1](https://www.youtube.com/watch?v=srKU5C-qVeY&list=PLeYIhs60ZS3ag-wt250z---Gh_QsgVsES&index=4)
-* [Video 2](https://www.youtube.com/watch?v=SCqlYeulJQA&list=PLeYIhs60ZS3ag-wt250z---Gh_QsgVsES&index=3)
+### Recordings
+* [Part 1](https://www.youtube.com/watch?v=srKU5C-qVeY&list=PLeYIhs60ZS3ag-wt250z---Gh_QsgVsES&index=4)
+* [Part 2](https://www.youtube.com/watch?v=SCqlYeulJQA&list=PLeYIhs60ZS3ag-wt250z---Gh_QsgVsES&index=3)
