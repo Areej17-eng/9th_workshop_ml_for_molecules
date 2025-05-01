@@ -5,9 +5,9 @@
 * Break (1:50-2:00)
 
 ### Session 2 (2:00-2:50)
-* Dimensionality reduction and PCA (Dr. Shuwen Yue, Cornell University) [Notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Thursday/Day4_dimensionality_reduction_notebook.ipynb) [slides](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Thursday/Day4_dimensionality_reduction_slides.pdf)
+* Dimensionality reduction and PCA (Dr. Shuwen Yue, Cornell University) [notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Thursday/Day4_dimensionality_reduction_notebook.ipynb) [slides](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Thursday/Day4_dimensionality_reduction_slides.pdf)
 * Break (2:50-3:00)
 
 ### Session 3 (3:00-4:00)
-* Intro to Generative Models (Dr. Shuwen Yue, Cornell University)
+* Intro to Generative Models (Dr. Shuwen Yue, Cornell University) [slides](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Thursday/VAE_slides.pptx)
 * Wrapup (3:50-4:00)
