@@ -1,4 +1,4 @@
-## NN and dimsenality reduction
+## NN and dimensionality reduction
 
 ### Session 1 (1:00-1:50)
 * Practical NN training (Dr. Camille Bilodeau, University of Virginia)
