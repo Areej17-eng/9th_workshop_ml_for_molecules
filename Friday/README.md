@@ -11,3 +11,7 @@
 ### Session 3 (3:00-4:00)
 * Variational Autoencoders Part 2 (Dr. Shuwen Yue, Cornell University) [notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Friday/Day5_VAE_example2.ipynb)
 * Wrapup (3:50-4:00)
+
+### Recordings 
+* [Part 1]
+* [Part 2](https://youtu.be/0JyOCly1eGM)
