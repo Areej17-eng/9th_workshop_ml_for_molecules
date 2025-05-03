@@ -19,5 +19,5 @@
 * Wrapup (3:50-4:00)
 
 ### Recordings
-[Part 1](https://www.youtube.com/watch?v=oX_EADguV3Q)
-[Part 2](https://youtu.be/Ckay9L-Gbw4)
+* [Part 1](https://www.youtube.com/watch?v=oX_EADguV3Q)
+* [Part 2](https://youtu.be/Ckay9L-Gbw4)
