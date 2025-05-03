@@ -13,5 +13,5 @@
 * Wrapup (3:50-4:00)
 
 ### Recordings 
-* [Part 1]
+* Part 1 (posted soon)
 * [Part 2](https://youtu.be/0JyOCly1eGM)
