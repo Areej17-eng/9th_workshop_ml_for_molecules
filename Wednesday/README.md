@@ -17,3 +17,7 @@
 ### Session 3 (3:00-4:00)
 * Graph neural nets for ML of molecules (Dr. Camille Bilodeau, University of Virginia)
 * Wrapup (3:50-4:00)
+
+### Recordings
+[Part 1](https://www.youtube.com/watch?v=oX_EADguV3Q)
+[Part 2](https://youtu.be/Ckay9L-Gbw4)
