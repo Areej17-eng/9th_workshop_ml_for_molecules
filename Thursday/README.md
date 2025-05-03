@@ -11,3 +11,8 @@
 ### Session 3 (3:00-4:00)
 * Intro to Generative Models (Dr. Shuwen Yue, Cornell University) [slides](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Thursday/Day4_VAEs.pdf)
 * Wrapup (3:50-4:00)
+
+### Recordings
+
+* [Part 1](https://youtu.be/xK19dlT9lSM)
+* [Part 2](https://youtu.be/BV6Vt8ytqTA)
